@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maxim Merkurev</h1>
-<h3 align="center">I am a master's student at Far Eastern Federal University majoring in Computer Science.</h3>
+<h3 align="center">I am a master's student at <a href="https://www.dvfu.ru/en/" target="blank">Far Eastern Federal University</a> majoring in Computer Science.</h3>
 
 - 💬 Brainstorm with me over **tech, algorithms, career, and anime**
 
-- 📫 How to reach me **cabamax@yandex.ru**
+- 📫 How to reach me <a href=" mailto:cabamax@yandex.ru">**cabamax@yandex.ru**</a>
 
 - ⚡ Intresting fact **I`m a competitive programer: participant of 1/2 ICPC 2025 (NEF), MTS True Tech, prize winner of RuCode, CodeWork Chalange. love to solve problems on CodeForces, LeetCode & atc.**
 
